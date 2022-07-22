@@ -1,0 +1,21 @@
+{
+  "name": "luna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx eslint --fix . && node ."
+  },
+  "keywords": [],
+  "author": "onlyvanilla",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.3",
+    "dotenv": "^16.0.1",
+    "glob": "^8.0.3"
+  }
+}

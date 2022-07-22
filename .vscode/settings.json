@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+}
